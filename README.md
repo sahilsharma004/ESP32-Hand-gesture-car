@@ -82,7 +82,7 @@ The receiver ESP32 controls the motors of the rover accordingly.
 Replace the receiver MAC address in transmitter code:
 
 ```cpp
-uint8_t receiverMac[] = { 0x00, 0x4B, 0x12, 0x2F, 0x0C, 0x64 };
+uint8_t receiverMac[] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
 ```
 
 To find receiver MAC address:
