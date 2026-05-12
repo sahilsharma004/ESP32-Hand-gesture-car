@@ -137,44 +137,7 @@ Tilt transmitter to control rover.
 | Tilt Right | Turn Right |
 | Keep Flat | Stop |
 
----
 
-# Project Structure
 
-```bash
-├── receiver.ino
-├── transmitter.ino
-└── README.md
-```
 
----
 
-# Future Improvements
-
-- Add obstacle avoidance
-- Add camera streaming
-- Add speed control using PWM
-- Add rechargeable battery system
-- Add mobile app control
-
----
-
-# Applications
-
-- Robotics projects
-- Gesture control systems
-- Surveillance rover
-- Educational IoT projects
-- Wireless vehicle control
-
----
-
-# Author
-
-Sahil Sharma
-
----
-
-# License
-
-This project is open-source and free to use for educational purposes.
